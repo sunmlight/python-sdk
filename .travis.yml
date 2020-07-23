@@ -24,5 +24,5 @@ script:
 
 env:
   global:
-    - secure: McZuxM4UAKabtGvCi+t1F/Spb/3Yzb6O7hEk0JLwJEYCnl7hkfV1ogAgjjYdHwkNPjOwUaz3rpdmahz64ohtpucPsIyQjgK7tigTM+UgdAcg77RflB50yJ3yCnJOHMxVRF0RNLZqFeuf3GkfnOyzZFynN+LmM5n+0/iIuC4LXgs=
+    - secure: "McZuxM4UAKabtGvCi+t1F/Spb/3Yzb6O7hEk0JLwJEYCnl7hkfV1ogAgjjYdHwkNPjOwUaz3rpdmahz64ohtpucPsIyQjgK7tigTM+UgdAcg77RflB50yJ3yCnJOHMxVRF0RNLZqFeuf3GkfnOyzZFynN+LmM5n+0/iIuC4LXgs="
     - QINIU_ACCESS_KEY=vHg2e7nOh7Jsucv2Azr5FH6omPgX22zoJRWa0FN5
